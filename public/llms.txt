@@ -40,7 +40,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: howardkesslerdc@optonline.net
+- Phone: 201-664-4864
+- Phone (tel): tel:2016644864
+- Address: 230 Broadway, Hillsdale, NJ, 07642, US
 
 ### Contact form
 - URL: https://example.com/contact
