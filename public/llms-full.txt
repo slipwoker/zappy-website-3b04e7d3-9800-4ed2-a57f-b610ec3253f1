@@ -273,7 +273,7 @@ Growing bodies need support too. From sports injuries to posture habits, we help
 ## What Our Patients Are Saying
 
 
-From weekend athletes and working professionals to seniors staying active, our practice is proud to serve patients across Bergen County. Here are a few voices from the community we’re honored to support.
+From weekend athletes and working professionals to seniors staying active, our practice is proud to serve patients across Bergen County. Here are a few voices from the community we're honored to support.
 
 
 
@@ -289,7 +289,7 @@ From weekend athletes and working professionals to seniors staying active, our p
 ### Finally, Relief That Lasts
 
 
-“Working long hours at a desk had my back in constant knots. Dr. Kessler not only adjusted what was out of place but gave me simple stretches I actually do. I haven’t felt this mobile in years.”
+"Working long hours at a desk had my back in constant knots. Dr. Kessler not only adjusted what was out of place but gave me simple stretches I actually do. I haven't felt this mobile in years."
 
 
 — Michael T.
@@ -305,7 +305,7 @@ Software Developer, Hillsdale
 ### Back on the Trail
 
 
-“A cycling crash left my hip so tight I thought my riding days were over. The targeted care and encouragement I received got me back on my bike stronger and smarter about my body.”
+"A cycling crash left my hip so tight I thought my riding days were over. The targeted care and encouragement I received got me back on my bike stronger and smarter about my body."
 
 
 — Sarah L.
@@ -321,7 +321,7 @@ Weekend Cyclist, Ridgewood
 ### Playing with the Grandkids Again
 
 
-“At 78, I figured some stiffness was just part of getting older. After a few gentle sessions, I’m back in the garden and keeping up with my grandchildren. The whole team makes you feel like family.”
+"At 78, I figured some stiffness was just part of getting older. After a few gentle sessions, I'm back in the garden and keeping up with my grandchildren. The whole team makes you feel like family."
 
 
 — Eleanor R.
@@ -411,11 +411,19 @@ Gentle, personalized chiropractic care for your family's wellness journey. We li
 #### Opening Hours
 
 
-- Mon–Fri 09:00–18:00
+- Mon 06:00 - 20:00
 
-- Sat 09:00–13:00
+- Tue 06:00 - 20:00
 
-- Sun Closed
+- Wed 06:00 - 20:00
+
+- Thu 06:00 - 20:00
+
+- Fri 06:00 - 18:00
+
+- Sat 06:00 - 14:00
+
+- Sun 07:00 - 12:00
 
 
 
@@ -558,7 +566,7 @@ Our Services
 ## Care That Moves With You
 
 
-From children taking their first dive into sports to grandparents enjoying their golden years, our approach is built around your unique story. We blend gentle, evidence-informed techniques with a listening ear, so you leave feeling understood, restored, and ready for what’s next.
+From children taking their first dive into sports to grandparents enjoying their golden years, our approach is built around your unique story. We blend gentle, evidence-informed techniques with a listening ear, so you leave feeling understood, restored, and ready for what's next.
 
 
 
@@ -571,7 +579,7 @@ From children taking their first dive into sports to grandparents enjoying their
 ### Spinal Alignment & Support
 
 
-Rediscover balance through precise, low-force adjustments designed to restore your spine’s natural rhythm. Whether you’re managing everyday tension or recovering from an old injury, this foundational care helps your nervous system communicate clearly, easing discomfort and improving overall vitality.
+Rediscover balance through precise, low-force adjustments designed to restore your spine's natural rhythm. Whether you're managing everyday tension or recovering from an old injury, this foundational care helps your nervous system communicate clearly, easing discomfort and improving overall vitality.
 
 
 
@@ -593,7 +601,7 @@ When persistent aches in your neck or back keep you from the activities you love
 ### Posture & Mobility Guidance
 
 
-Modern life pulls us forward — screens, desks, and long commutes take a toll. We’ll work together to retrain your posture and unlock restricted movement patterns, empowering you to stand taller, move freer, and prevent future strain.
+Modern life pulls us forward — screens, desks, and long commutes take a toll. We'll work together to retrain your posture and unlock restricted movement patterns, empowering you to stand taller, move freer, and prevent future strain.
 
 
 
@@ -604,7 +612,7 @@ Modern life pulls us forward — screens, desks, and long commutes take a toll. 
 ### Wellness Maintenance Visits
 
 
-Feeling good shouldn’t be a temporary state. Regular wellness check-ins help you stay ahead of tension, maintain the progress you’ve made, and keep your body performing at its peak — whether you’re a weekend warrior, a busy professional, or simply want to age gracefully.
+Feeling good shouldn't be a temporary state. Regular wellness check-ins help you stay ahead of tension, maintain the progress you've made, and keep your body performing at its peak — whether you're a weekend warrior, a busy professional, or simply want to age gracefully.
 
 
 
@@ -901,11 +909,19 @@ Gentle, personalized chiropractic care for your family's wellness journey. We li
 #### Opening Hours
 
 
-- Mon–Fri 09:00–18:00
+- Mon 06:00 - 20:00
 
-- Sat 09:00–13:00
+- Tue 06:00 - 20:00
 
-- Sun Closed
+- Wed 06:00 - 20:00
+
+- Thu 06:00 - 20:00
+
+- Fri 06:00 - 18:00
+
+- Sat 06:00 - 14:00
+
+- Sun 07:00 - 12:00
 
 
 
@@ -1165,7 +1181,7 @@ Real experiences from patients across Bergen County — from weekend athletes to
 
 
 
-“
+"
 
 ### Finally found lasting relief
 
@@ -1175,7 +1191,7 @@ After years of lower back pain and trying everything, Dr. Kessler took the time 
 — Michael R., Ridgewood
 
 
-“
+"
 
 ### Keeps me on the field
 
@@ -1185,7 +1201,7 @@ As a weekend soccer player, I was sidelined with a stubborn sports injury. Howar
 — Sarah T., Hillsdale
 
 
-“
+"
 
 ### Whole family feels welcome
 
@@ -1195,7 +1211,7 @@ We started bringing our teenage son for posture issues, and now my 85-year-old m
 — The Park Family, Westwood
 
 
-“
+"
 
 ### No more desk-job stiffness
 
@@ -1280,11 +1296,19 @@ Gentle, personalized chiropractic care for your family's wellness journey. We li
 #### Opening Hours
 
 
-- Mon–Fri 09:00–18:00
+- Monday 06:00 - 20:00
 
-- Sat 09:00–13:00
+- Tuesday 06:00 - 20:00
 
-- Sun Closed
+- Wednesday 06:00 - 20:00
+
+- Thursday 06:00 - 20:00
+
+- Friday 06:00 - 18:00
+
+- Saturday 06:00 - 14:00
+
+- Sunday 07:00 - 12:00
 
 
 
@@ -1407,7 +1431,7 @@ Have questions about chiropractic care, or ready to begin your journey to feelin
 
 
 Howard Kessler, DC
-230 Broadway, Hillsdale, NJ 07642
+230 Broadway, Hillsdale, NJ, 07642, US
 
 
 
@@ -1680,11 +1704,19 @@ Gentle, personalized chiropractic care for your family's wellness journey. We li
 #### Opening Hours
 
 
-- Mon–Fri 09:00–18:00
+- Mon 06:00 - 20:00
 
-- Sat 09:00–13:00
+- Tue 06:00 - 20:00
 
-- Sun Closed
+- Wed 06:00 - 20:00
+
+- Thu 06:00 - 20:00
+
+- Fri 06:00 - 18:00
+
+- Sat 06:00 - 14:00
+
+- Sun 07:00 - 12:00
 
 
 
