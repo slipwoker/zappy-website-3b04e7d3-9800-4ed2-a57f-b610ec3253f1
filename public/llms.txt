@@ -7,33 +7,33 @@
 ## Pages
 
 ### Home
-https://howard-kessler-dc-3b04e7d3.zappy5.app
+https://example.com
 Your trusted chiropractor in Bergen County NJ, serving ages 10 to 100 with personalized care. Find lasting back pain relief and renewed vitality. Book your visit today.
 
 ### Services
-https://howard-kessler-dc-3b04e7d3.zappy5.app/services
+https://example.com/services
 Expert chiropractic services in Bergen County, from spinal decompression for herniated discs to sports injury treatment. Tailored care that gets you back to your best self.
 
 ### About
-https://howard-kessler-dc-3b04e7d3.zappy5.app/about
+https://example.com/about
 Meet Howard Kessler, DC, a Bergen County chiropractor dedicated to inclusive, community-focused care for weekend athletes, professionals, and seniors alike. Learn our story.
 
 ### Contact
-https://howard-kessler-dc-3b04e7d3.zappy5.app/contact
+https://example.com/contact
 Ready to feel your best? Contact our Bergen County chiropractic office on Broadway in Hillsdale, NJ. Schedule your appointment and take the first step toward a pain-free life.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://howard-kessler-dc-3b04e7d3.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://howard-kessler-dc-3b04e7d3.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://howard-kessler-dc-3b04e7d3.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://howard-kessler-dc-3b04e7d3.zappy5.app/contact
-- Endpoint: https://howard-kessler-dc-3b04e7d3.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -76,6 +76,6 @@ Healthcare / Chiropractic
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://howard-kessler-dc-3b04e7d3.zappy5.app/sitemap.xml
-- Robots: https://howard-kessler-dc-3b04e7d3.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://howard-kessler-dc-3b04e7d3.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
