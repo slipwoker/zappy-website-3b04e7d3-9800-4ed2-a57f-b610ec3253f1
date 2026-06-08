@@ -1,0 +1,81 @@
+# Howard Kessler,DC — Generative Engine Optimization Map
+
+> A chiropractic practice based at 230 Broadway, Hillsdale, NJ, serving a broad and diverse patient base throughout Bergen County. The practice welcomes everyone from young patients (age 10) to seniors (age 100), including weekend athletes and working professionals. The brand has a community-centered, inclusive feel — approachable yet professional, focused on helping people of all ages and lifestyles feel their best.
+
+---
+
+## Pages
+
+### Home
+https://howard-kessler-dc-3b04e7d3.zappy5.app
+Your trusted chiropractor in Bergen County NJ, serving ages 10 to 100 with personalized care. Find lasting back pain relief and renewed vitality. Book your visit today.
+
+### Services
+https://howard-kessler-dc-3b04e7d3.zappy5.app/services
+Expert chiropractic services in Bergen County, from spinal decompression for herniated discs to sports injury treatment. Tailored care that gets you back to your best self.
+
+### About
+https://howard-kessler-dc-3b04e7d3.zappy5.app/about
+Meet Howard Kessler, DC, a Bergen County chiropractor dedicated to inclusive, community-focused care for weekend athletes, professionals, and seniors alike. Learn our story.
+
+### Contact
+https://howard-kessler-dc-3b04e7d3.zappy5.app/contact
+Ready to feel your best? Contact our Bergen County chiropractic office on Broadway in Hillsdale, NJ. Schedule your appointment and take the first step toward a pain-free life.
+
+## Legal & Policy
+
+### Privacy Policy
+https://howard-kessler-dc-3b04e7d3.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://howard-kessler-dc-3b04e7d3.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://howard-kessler-dc-3b04e7d3.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://howard-kessler-dc-3b04e7d3.zappy5.app/contact
+- Endpoint: https://howard-kessler-dc-3b04e7d3.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Howard Kessler,DC
+A chiropractic practice based at 230 Broadway, Hillsdale, NJ, serving a broad and diverse patient base throughout Bergen County. The practice welcomes everyone from young patients (age 10) to seniors (age 100), including weekend athletes and working professionals. The brand has a community-centered, inclusive feel — approachable yet professional, focused on helping people of all ages and lifestyles feel their best.
+
+## Target Audience
+- Patients across Bergen County, NJ — ranging from weekend athletes to working professionals and all walks of life, ages 10 to 100
+- Weekend Athletes
+- Working Professionals
+- Active Seniors
+- Youth Athletes
+- Health-Conscious Parents
+
+## Industry
+Healthcare / Chiropractic
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://howard-kessler-dc-3b04e7d3.zappy5.app/sitemap.xml
+- Robots: https://howard-kessler-dc-3b04e7d3.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://howard-kessler-dc-3b04e7d3.zappy5.app/llms-full.txt
