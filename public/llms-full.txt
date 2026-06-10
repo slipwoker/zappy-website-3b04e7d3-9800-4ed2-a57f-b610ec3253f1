@@ -1594,10 +1594,6 @@ Send Message
 
 
 
-
-
-
-
 ### Howard Kessler, DC
 
 
@@ -1610,8 +1606,6 @@ Hillsdale, NJ 07642
 230 Broadway, Hillsdale, NJ, 07642, US
 
 
-
-View on Map
 
 
 
@@ -1628,7 +1622,7 @@ Conveniently located on Broadway in Hillsdale, our practice is easily accessible
 
 
 
-230 Broadway, Hillsdale, NJ, 07642, US
+
 
 
 
