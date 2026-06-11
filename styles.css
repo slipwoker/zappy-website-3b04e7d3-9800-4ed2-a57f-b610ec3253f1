@@ -7227,6 +7227,21 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
     box-shadow: 0 12px 40px rgba(0, 0, 0, 0.4), 0 4px 12px rgba(0, 0, 0, 0.25);
   }
 }
+
+.meet-dr-section .meet-dr-image-wrapper {
+  width: 100%;
+  margin-left: 0;
+  margin-right: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.meet-dr-section .meet-dr-image {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
